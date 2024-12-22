@@ -10,5 +10,5 @@ export default defineConfig({
     outDir: 'docs',
     target: 'esnext',
   },
-  base: '/css-gallery',
+  base: '/shark-css',
 });
